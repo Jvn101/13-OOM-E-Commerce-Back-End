@@ -1,7 +1,7 @@
 # 13-OOM-E-Commerce-Back-End
 
 ## Description
-This application is a content management system (CMS) that manages a company's employee database, using Node.js, Inquirer, and MySQL.
+This application is the back end code from an e-commerce site. A working Express.js API has beeen configured to use Sequelize to interact with a MySQL database.
 
 ![Image](/Images/demo.png) 
 
@@ -12,7 +12,7 @@ This application is a content management system (CMS) that manages a company's e
 * [Contact Us](#contact-us)
 
 ## Installation
-Install npm i to install project dependencies inquirer and MySQL
+Install npm in the integrated terminal to install the project dependencies.
 
 ## Video walkthrough
 
