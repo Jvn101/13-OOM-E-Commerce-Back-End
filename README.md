@@ -3,7 +3,7 @@
 ## Description
 This application is the back end code from an e-commerce site. A working Express.js API has beeen configured to use Sequelize to interact with a MySQL database.
 
-![Image](/Images/demo.png) 
+![Image](/Images/Insomnia.png) 
 
 ## Table of Contents 
 
