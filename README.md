@@ -16,7 +16,7 @@ Install npm in the integrated terminal to install the project dependencies.
 
 ## Video walkthrough
 
-For this project we have created a video walkthrough demonstrating how this project can be used. Click [here]([https://drive.google.com/file/d/1R26Ej9N-vCbZr8AmvlMAGCv0b3pLB8f_/view)](https://drive.google.com/file/d/1P5QqQNUuDBg8Cqs9PzwxFTYMJsAHgfW-/view) to view.
+For this project we have created a video walkthrough demonstrating how this project can be used. Click [here](https://drive.google.com/file/d/1R26Ej9N-vCbZr8AmvlMAGCv0b3pLB8f_/view)(https://drive.google.com/file/d/1P5QqQNUuDBg8Cqs9PzwxFTYMJsAHgfW-/view) to view.
 
 ***
 ### Contact us
